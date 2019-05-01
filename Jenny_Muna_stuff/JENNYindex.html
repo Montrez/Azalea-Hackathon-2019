@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<!-- Template by Quackit.com -->
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+    <title>Portal 1</title>
+
+    <!-- Bootstrap 4 CSS. This is for the alpha 3 release of Bootstrap 4. This should be updated when Bootstrap 4 is officially released. -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.3/css/bootstrap.min.css" integrity="sha384-MIwDKRSSImVFAZCVLtU0LMDdON6KVCrZHyVQQj6e8wIEJkW4tvwqXrbMIya1vriY" crossorigin="anonymous">
+      
+    <!-- Custom CSS: You can use this stylesheet to override any Bootstrap styles and/or apply your own styles -->
+    <link href="css/custom.css" rel="stylesheet">
+    
+    <!-- For icons -->
+    <link href="css/font-awesome-4.6.3/css/font-awesome.min.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+    <!-- Navigation -->
+    <nav id="topNav" class="navbar navbar-full navbar-static-top navbar-dark bg-inverse m-b-1">
+        <button class="navbar-toggler hidden-md-up pull-right" type="button" data-toggle="collapse" data-target="#navbar">
+            &#9776;
+        </button>
+        <a class="navbar-brand" href="#"><b>V-Service</b></a>
+        <div class="collapse navbar-toggleable-sm" id="navbar">
+            <ul class="nav navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Home</a>
+                </li>
+				<!-- 
+                <li class="nav-item">
+                    <a class="nav-link" href="#">About</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Products</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Services
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                        <a class="dropdown-item" href="#">Engage</a>
+                        <a class="dropdown-item" href="#">Pontificate</a>
+                        <a class="dropdown-item" href="#">Synergize</a>
+                    </div>
+					
+					-->
+					
+                </li>
+            </ul>
+            <!-- Search -->
+            <form class="form-inline pull-xs-right">
+                <input class="form-control" type="text" placeholder="Search">
+                <button class="btn btn-secondary" type="submit">Search</button>
+            </form>
+
+            </ul>
+        </div>
+    </nav>
+    
+
+<div class="container-fluid">
+
+		<!-- Left Column -->
+		<div class="col-sm-3">
+
+			<!-- List-Group Panel -->
+			<div class="card">
+
+				<div class="list-group list-group-flush">
+					
+					
+				</div>
+			</div>
+
+				
+		</div><!--/Left Column-->
+  
+  
+		<!-- Center Column -->
+		<div class="col-sm-6">
+		
+			<!-- Alert -->
+			<div class="alert alert-success alert-dismissible" role="alert">
+				<button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+				<strong>Welcome to the Events Page!</strong> 
+			</div>		
+		
+			<!-- Articles -->
+			<div class="row">
+				<article class="col-xs-12">
+					<h2>Events Near Me</h2>
+<div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=Community%20Service%20Valdosta&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.pureblack.de">homepage kosten</a></div><style>.mapouter{text-align:right;height:500px;width:600px;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style></div>
+						<li class="list-inline-item"><a href="#">Today</a></li>
+						<li class="list-inline-item"><a href="#"><span class="glyphicon glyphicon-comment"></span> 2 Comments</a></li>
+						<li class="list-inline-item"><a href="#"><span class="glyphicon glyphicon-share"></span> 8 Shares</a></li>
+					</ul>
+				</article>
+			</div>
+			<hr>
+			<div class="row">
+				<article class="col-xs-12">
+					<h2>Calendar of Monthly Events</h2>
+<iframe src="https://calendar.google.com/calendar/embed?src=cqje4ac2v4sba0t2g113o5nui0%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>						<li class="list-inline-item"><a href="#"><span class="glyphicon glyphicon-comment">
+					</ul>
+				</article>
+			</div>
+			<hr>      
+
+			<hr>
+		</div><!--/Center Column-->
+
+
+	  <!-- Right Column -->
+	  <div class="col-sm-3">
+
+
+ 
+			<!-- Progress Bars -->
+			<div class="card">
+				<div class="card-header p-b-0">
+					<h5 class="card-title">
+						<i class="fa fa-tachometer" aria-hidden="true"></i> 
+						Hours Tracker
+					</h5>
+				</div>
+				<div class="card-block">
+                    <div class="text-xs-center" id="progress-caption-1">Boys & Girls Club &hellip; 120/120</div>
+                    <progress class="progress progress-success" value="100" max="100" aria-describedby="progress-caption-1"></progress>
+                    <div class="text-xs-center" id="progress-caption-2">Greater Valdosta United Way &hellip; 100/120</div>
+                    <progress class="progress progress-info" value="80" max="100" aria-describedby="progress-caption-2"></progress>
+                    <div class="text-xs-center" id="progress-caption-3">American Red Cross &hellip; 50/120</div>
+                    <progress class="progress progress-warning" value="45" max="100" aria-describedby="progress-caption-3"></progress>
+                    <div class="text-xs-center" id="progress-caption-4"> Valdosta Soup Kitchen &hellip; 35/120</div>
+                    <progress class="progress progress-danger" value="35" max="100" aria-describedby="progress-caption-4"></progress>
+				</div>
+			</div>
+
+			<!-- Carousel --> 
+
+			<div id="side-carousel" class="carousel slide" data-ride="carousel">
+				<ol class="carousel-indicators">
+
+				</ol>
+				<div class="carousel-inner" role="listbox">
+
+		
+						</div>
+					</div>
+
+
+				</div>
+				<!-- /.row -->	
+			</div>
+        </div>
+        
+        <div class="small-print">
+        	<div class="container">
+        		<p><a href="#">Terms &amp; Conditions</a> | <a href="#">Privacy Policy</a> | <a href="#">Contact</a></p>
+        		<p>Copyright &copy; VService.com 2019 </p>
+        	</div>
+        </div>
+	</footer>
+
+	
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js" integrity="sha384-THPy051/pYDQGanwU6poAc/hOdQxjnOEXzbT+OuUAFqNqFjL+4IGLBgCJC3ZOShY" crossorigin="anonymous"></script>
+
+    <!-- Tether -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.2.0/js/tether.min.js" integrity="sha384-Plbmg8JY28KFelvJVai01l8WyZzrYWG825m+cZ0eDDS1f7d/js6ikvy1+X+guPIB" crossorigin="anonymous"></script>
+
+    <!-- Bootstrap 4 JavaScript. This is for the alpha 3 release of Bootstrap 4. This should be updated when Bootstrap 4 is officially released. -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.3/js/bootstrap.min.js" integrity="sha384-ux8v3A6CPtOTqOzMKiuo3d/DomGaaClxFYdCu2HPMBEkf6x2xiDyJ7gkXU0MWwaD" crossorigin="anonymous"></script>
+
+    <!-- Initialize Bootstrap functionality -->
+    <script>
+    // Initialize tooltip component
+    $(function () {
+      $('[data-toggle="tooltip"]').tooltip()
+    })
+
+    // Initialize popover component
+    $(function () {
+      $('[data-toggle="popover"]').popover()
+    })
+    </script> 
+    
+	<!-- Placeholder Images -->
+	<script src="js/holder.min.js"></script>
+	
+</body>
+
+</html>

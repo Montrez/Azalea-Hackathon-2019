@@ -1,0 +1,24 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Hours:</strong>
+  <%= @scholarship.hours %>
+</p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @scholarship.name %>
+</p>
+
+<p>
+  <strong>Description:</strong>
+  <%= @scholarship.description %>
+</p>
+
+<p>
+  <strong>Relevance:</strong>
+  <%= @scholarship.relevance %>
+</p>
+
+<%= link_to 'Edit', edit_scholarship_path(@scholarship) %> |
+<%= link_to 'Back', scholarships_path %>

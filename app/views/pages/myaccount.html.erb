@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <title>Login</title>
+  </head>
+
+  <body>
+
+    <div class = "container">
+      <h1 class="display-1">Login</h1>
+      <hr>
+      <br>
+
+
+      <div class="container">
+        <form name="myLoginForm"> 
+          <div>
+            <label>Email</label>
+            <input type="email" placeholder="sample@email.com" name ="email">
+          </div>
+
+          <label>Password</label>
+            <input type="password"  name ="password">
+          </div>
+
+          <br>
+         <button class="submit">
+          <%=link_to "Login", pages_account_path %>
+            </button>
+           <p class="lead" style="padding-top:25px">Don't have an account?</p>
+           <li><%= link_to "Create One Now", pages_signup_path%></li>
+
+
+        </form>
+        <hr>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,19 @@
+<h1>Your Scholarships</h1>
+<%= content_tag :p,
+    id: "hello_react",
+    data: @scholarships.to_json do %>
+        <%= javascript_pack_tag 'hello_react' %>
+    <% end %>
+<ul class="catalog">
+  <% @scholarships.each do |scholarship| %>
+    <li>
+      <h2><%= scholarship.name %></h2>
+      <p>
+      <%= scholarship.description %>
+      </p>
+      <p>
+      service hours required
+      <%= scholarship.hours %>
+    </li>
+  <% end %>
+</ul>

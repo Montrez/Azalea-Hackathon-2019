@@ -1,0 +1,679 @@
+commit 10e5d33003b338164756cd88272519e738ffa331
+Author: KD Adkins <young.adkins@gmail.com>
+Date:   Sat Feb 9 16:16:23 2019 -0500
+
+    took away navbar from scholarship and events
+
+commit 2a78e897b412eef4aaaa757d63a1bdab8a6b4d90
+Author: KD Adkins <young.adkins@gmail.com>
+Date:   Sat Feb 9 16:14:25 2019 -0500
+
+    took away navbar from scholarship and events
+
+commit 267eee579034c942d5d5affec8a0117632cc0110
+Merge: 91cdbef 03a9384
+Author: KD Adkins <young.adkins@gmail.com>
+Date:   Sat Feb 9 16:08:16 2019 -0500
+
+    Merge branch 'master' of github.com:jawardell/hackathon
+
+commit 91cdbefd7c80f7d36933f257a4f96732a91f61f8
+Author: KD Adkins <young.adkins@gmail.com>
+Date:   Sat Feb 9 16:07:16 2019 -0500
+
+    final navbar work
+
+commit 03a9384ec0b12eba1d4f8a6e75cbb3d1a3838db1
+Merge: e2810cb 59b0311
+Author: Montrez <montrez.cox@gmail.com>
+Date:   Sat Feb 9 15:59:14 2019 -0500
+
+    Merge branch 'master' of github.com:jawardell/hackathon
+
+commit e2810cb4aed39956b49e8b7a20533252d2ce0a0f
+Author: Montrez <montrez.cox@gmail.com>
+Date:   Sat Feb 9 15:59:02 2019 -0500
+
+    Updated login, and signups page
+
+commit 59b03115165f5a9fb61437683a49b31d8cdd9730
+Author: KD Adkins <young.adkins@gmail.com>
+Date:   Sat Feb 9 15:56:23 2019 -0500
+
+    Added links to events' navbar-horizontal
+
+commit 0af98d3969f642d8ef51c31204ec4de82432e6de
+Merge: 3ce2dee 8becce8
+Author: KD Adkins <young.adkins@gmail.com>
+Date:   Sat Feb 9 15:51:12 2019 -0500
+
+    Merge branch 'master' of github.com:jawardell/hackathon
+
+commit 3ce2dee0fbd4884f09136608a5142a3c4d083602
+Author: KD Adkins <young.adkins@gmail.com>
+Date:   Sat Feb 9 15:50:03 2019 -0500
+
+    Added links to events' navbar
+
+commit 8becce8026ddb54b0a232937f48030efa2d95a62
+Merge: f15f164 1af16f1
+Author: Joanne <joanne.wardell6@gmail.com>
+Date:   Sat Feb 9 15:47:47 2019 -0500
+
+    Merge branch 'master' of https://github.com/jawardell/hackathon
+
+commit f15f16433e0aa747ab242e9ba1a44c4c87eff7cf
+Merge: 711f4fd 8b9806e
+Author: Joanne <joanne.wardell6@gmail.com>
+Date:   Sat Feb 9 15:47:32 2019 -0500
+
+    Merge branch 'master' of https://github.com/jawardell/hackathon
+
+commit 1af16f1faa7e9e0ca586e3a75d67da330f4d9671
+Author: Montrez <montrez.cox@gmail.com>
+Date:   Sat Feb 9 15:47:01 2019 -0500
+
+    Updated home page, and signup page
+
+commit 711f4fdfb82cbf1e98df6bbbbe57742e9b8083ac
+Author: Joanne <joanne.wardell6@gmail.com>
+Date:   Sat Feb 9 15:45:39 2019 -0500
+
+    delete nav bar on scholarships page
+
+commit 8b9806e7cb368f3e61c236ce2def5ae7fdc7d74b
+Author: KD Adkins <young.adkins@gmail.com>
+Date:   Sat Feb 9 15:39:09 2019 -0500
+
+    Added visible color to navbar pt4
+
+commit 7c0fd758e7fc65c9fd064e3ff92e7e0a80eda87a
+Author: Montrez <montrez.cox@gmail.com>
+Date:   Sat Feb 9 15:34:09 2019 -0500
+
+    Deleted button on project board
+
+commit 2921aba32e7de2d3de9a11fe7033c00ba08277ae
+Merge: dbf86fa ea2df22
+Author: KD Adkins <young.adkins@gmail.com>
+Date:   Sat Feb 9 15:30:06 2019 -0500
+
+    Merge branch 'master' of github.com:jawardell/hackathon
+
+commit dbf86fa6a76447c35d0218129b8bd68a3cbe8530
+Author: KD Adkins <young.adkins@gmail.com>
+Date:   Sat Feb 9 15:29:10 2019 -0500
+
+    Added visible color to navbar pt3
+
+commit ea2df2298b5a352f6fd20dc0a4baafc2001007c2
+Merge: 7aa927a a702a81
+Author: Joanne <joanne.wardell6@gmail.com>
+Date:   Sat Feb 9 15:28:56 2019 -0500
+
+    Merge branch 'master' of https://github.com/jawardell/hackathon
+
+commit 7aa927aab69b330cd9ad6cd612fb6c0cd808a9bf
+Author: Joanne <joanne.wardell6@gmail.com>
+Date:   Sat Feb 9 15:28:39 2019 -0500
+
+    update page
+
+commit a702a819efe29b498ed62da3868496f860ad6211
+Merge: 28d63e1 75c69ce
+Author: KD Adkins <young.adkins@gmail.com>
+Date:   Sat Feb 9 15:24:09 2019 -0500
+
+    Merge branch 'master' of github.com:jawardell/hackathon
+
+commit 28d63e192c894fc5c9e87e1bdb897bd13ef40852
+Author: KD Adkins <young.adkins@gmail.com>
+Date:   Sat Feb 9 15:22:23 2019 -0500
+
+    Added visible color to navbar pt2
+
+commit 75c69ce2c3cb8b2090fd0a8238c97ea5d3f27041
+Merge: aff234c 8eeaeb9
+Author: Joanne <joanne.wardell6@gmail.com>
+Date:   Sat Feb 9 15:21:57 2019 -0500
+
+    Merge branch 'master' of https://github.com/jawardell/hackathon
+
+commit aff234cdfe385b05c848a02fc95621c03de80c48
+Merge: 394481c 5e373d5
+Author: Joanne <joanne.wardell6@gmail.com>
+Date:   Sat Feb 9 15:21:33 2019 -0500
+
+    Merge branch 'master' of https://github.com/jawardell/hackathon
+
+commit 8eeaeb9b3697f5cbd748b0c2d9fc485a069f4aa7
+Author: KD Adkins <young.adkins@gmail.com>
+Date:   Sat Feb 9 15:20:01 2019 -0500
+
+    Added visible color to navbar
+
+commit c84a82175b93d3422c7357b2ba459feaae92fc5f
+Author: KD Adkins <young.adkins@gmail.com>
+Date:   Sat Feb 9 15:14:22 2019 -0500
+
+    Fixed navbar visuals
+
+commit 79d55be636001554938cfbe507c96fb4421c64e5
+Merge: dfc2d8c 5e373d5
+Author: KD Adkins <young.adkins@gmail.com>
+Date:   Sat Feb 9 14:53:35 2019 -0500
+
+    Merge branch 'master' of github.com:jawardell/hackathon
+
+commit dfc2d8c9d498714ff54cb82cda3757cc87e5e2c1
+Author: KD Adkins <young.adkins@gmail.com>
+Date:   Sat Feb 9 14:52:43 2019 -0500
+
+    Added navbar to all pages
+
+commit 394481c22459f7d7dd6724cd4e8390fbac5172dc
+Author: Joanne <joanne.wardell6@gmail.com>
+Date:   Sat Feb 9 14:50:15 2019 -0500
+
+    update
+
+commit 5e373d5dc4485183b59b20e34ee943e7550aaa69
+Merge: 75bbc0d 0233450
+Author: Montrez <montrez.cox@gmail.com>
+Date:   Sat Feb 9 14:43:56 2019 -0500
+
+    Merge branch 'master' of github.com:jawardell/hackathon
+
+commit 75bbc0d6cfe2ee5cb4273a99b4380686cf577304
+Author: Montrez <montrez.cox@gmail.com>
+Date:   Sat Feb 9 14:43:52 2019 -0500
+
+    Updated the projects page in every field
+
+commit 023345006f809d3a0c17b22ed9ccb07b7fcd99c4
+Merge: 233219d 9b002b9
+Author: KD Adkins <young.adkins@gmail.com>
+Date:   Sat Feb 9 14:41:24 2019 -0500
+
+    Merge branch 'master' of github.com:jawardell/hackathon
+
+commit 233219dcce9cd6b948d2ecb79bd7cb11a5e1c9ea
+Author: KD Adkins <young.adkins@gmail.com>
+Date:   Sat Feb 9 14:40:34 2019 -0500
+
+    custom navbar
+
+commit 9b002b956b14370d2cca4fc319072f13d4222e27
+Merge: aadfe17 a60914b
+Author: Montrez <montrez.cox@gmail.com>
+Date:   Sat Feb 9 14:36:50 2019 -0500
+
+    Merge branch 'master' of github.com:jawardell/hackathon
+
+commit aadfe173fe8655f2bd56be3f4363e6b5603219de
+Author: Montrez <montrez.cox@gmail.com>
+Date:   Sat Feb 9 14:36:45 2019 -0500
+
+    Created signup page and edited projects page
+
+commit a60914b6f924aa4041840469371c665b826740ae
+Author: KD Adkins <young.adkins@gmail.com>
+Date:   Sat Feb 9 14:34:18 2019 -0500
+
+    custom navbar
+
+commit 74cb0a3efd3d414f119d672b467ba4b1e0cd3bd4
+Merge: 0ef4633 36dbd2d
+Author: Joanne <joanne.wardell6@gmail.com>
+Date:   Sat Feb 9 14:19:33 2019 -0500
+
+    Merge branch 'master' of https://github.com/jawardell/hackathon
+
+commit 0ef4633e2d7e439d7d32d97e064d96f15da7ff84
+Author: Joanne <joanne.wardell6@gmail.com>
+Date:   Sat Feb 9 14:19:28 2019 -0500
+
+    remove old text
+
+commit 36dbd2ddec27967e0d1db45afab927a1dff57def
+Merge: b0db7b9 5a80fae
+Author: KD Adkins <young.adkins@gmail.com>
+Date:   Sat Feb 9 14:03:46 2019 -0500
+
+    Merge branch 'master' of github.com:jawardell/hackathon
+
+commit b0db7b93d3dbce058aae5b2ec2083c7273fe9165
+Author: KD Adkins <young.adkins@gmail.com>
+Date:   Sat Feb 9 14:02:25 2019 -0500
+
+    Fix quote error
+
+commit 5a80faef36efd47c9094275ef2a953784054b515
+Merge: 2f79af1 9086815
+Author: Joanne <joanne.wardell6@gmail.com>
+Date:   Sat Feb 9 14:01:39 2019 -0500
+
+    Merge branch 'master' of https://github.com/jawardell/hackathon
+
+commit 2f79af1f6e8a124150d83b88eb35ec4effcb13b5
+Author: Joanne <joanne.wardell6@gmail.com>
+Date:   Sat Feb 9 14:01:29 2019 -0500
+
+    updates
+
+commit 9086815ec6745084577011efd003a82f5a826526
+Author: KD Adkins <young.adkins@gmail.com>
+Date:   Sat Feb 9 13:57:33 2019 -0500
+
+    Added navbar to projects
+
+commit 16cd233ed0e905bf3e5dbebe77a7e39530d87620
+Author: Montrez <montrez.cox@gmail.com>
+Date:   Sat Feb 9 13:51:37 2019 -0500
+
+    Currently updating projects board
+
+commit 5452bbe737b3067ebdc3941b46dfbd8fd2210e8a
+Author: Joanne <joanne.wardell6@gmail.com>
+Date:   Sat Feb 9 13:37:25 2019 -0500
+
+    got login page
+
+commit 26374f7c4af41e84df276bc61d7d90215fe011cb
+Merge: 2252022 226cc63
+Author: KD Adkins <young.adkins@gmail.com>
+Date:   Sat Feb 9 13:27:02 2019 -0500
+
+    Merge branch 'master' of github.com:jawardell/hackathon
+
+commit 2252022b8527633106d29e7ba611b840799e149b
+Author: KD Adkins <young.adkins@gmail.com>
+Date:   Sat Feb 9 13:25:57 2019 -0500
+
+    Added login page
+
+commit 226cc63d398c241d7a7177586307ae94b3ff1488
+Merge: 99bfb2b 92a594f
+Author: Joanne <joanne.wardell6@gmail.com>
+Date:   Sat Feb 9 13:16:26 2019 -0500
+
+    Merge branch 'master' of https://github.com/jawardell/hackathon
+
+commit 99bfb2be06be7e911f3b3e4bc933062726afb4bc
+Merge: 3ac2e26 9b5fe75
+Author: Joanne <joanne.wardell6@gmail.com>
+Date:   Sat Feb 9 13:16:15 2019 -0500
+
+    updates
+
+commit 92a594f498c668a8435b681562c870f013d6af95
+Author: KD Adkins <young.adkins@gmail.com>
+Date:   Sat Feb 9 13:15:42 2019 -0500
+
+    Added link to external css
+
+commit 3ac2e2641791887c93ea897bff4bd2854f17bd67
+Author: Joanne <joanne.wardell6@gmail.com>
+Date:   Sat Feb 9 13:15:12 2019 -0500
+
+    updates
+
+commit 9b5fe75db64b49341ae4fde85b0b3c32e321b8e1
+Author: KD Adkins <young.adkins@gmail.com>
+Date:   Sat Feb 9 13:09:20 2019 -0500
+
+    Fixed css issue, hopefully
+
+commit e2a34d4fd5679826da50a1caf78a931f415b017c
+Merge: 1461be2 129e969
+Author: KD Adkins <young.adkins@gmail.com>
+Date:   Sat Feb 9 12:57:33 2019 -0500
+
+    Merge branch 'master' of github.com:jawardell/hackathon
+
+commit 129e9693ce5bb8ce98a9fe8acb8b769869ad47d5
+Merge: a60640d fa275ee
+Author: Joanne <joanne.wardell6@gmail.com>
+Date:   Sat Feb 9 12:56:42 2019 -0500
+
+    Merge branch 'master' of https://github.com/jawardell/hackathon
+
+commit a60640dfa4a90c91780eff5d38248b9eb5ae2a64
+Author: Joanne <joanne.wardell6@gmail.com>
+Date:   Sat Feb 9 12:56:31 2019 -0500
+
+    updates
+
+commit 1461be2914be3497dd807004b43d1ef057dad1e1
+Merge: bf351f9 f4760b8
+Author: KD Adkins <young.adkins@gmail.com>
+Date:   Sat Feb 9 12:56:26 2019 -0500
+
+    deleted u bit
+
+commit fa275ee3b67fd3989528c98152d248f574b16945
+Author: Jenny <31353637+jenchen08@users.noreply.github.com>
+Date:   Sat Feb 9 12:54:34 2019 -0500
+
+    Add files via upload
+
+commit 3ba28da1ee203e0eb500e6efb0dec9b0eb1d80c4
+Author: Jenny <31353637+jenchen08@users.noreply.github.com>
+Date:   Sat Feb 9 12:54:20 2019 -0500
+
+    Delete JENNYindex.html
+
+commit bf351f9557e02566a261df0ba5a0ca3f4aa77349
+Merge: a890d67 a953224
+Author: KD Adkins <young.adkins@gmail.com>
+Date:   Sat Feb 9 12:49:43 2019 -0500
+
+    Added ds store to gitignore
+
+commit f4760b8d1e4bda50ec2ed52ba4dbcf30c0ecd4f5
+Merge: 87c822e a953224
+Author: Joanne <joanne.wardell6@gmail.com>
+Date:   Sat Feb 9 12:42:53 2019 -0500
+
+    ds
+
+commit a890d67a37063234bff7d353fa8cd1f50a24865e
+Author: KD Adkins <young.adkins@gmail.com>
+Date:   Sat Feb 9 12:41:54 2019 -0500
+
+    Added body tags
+
+commit a953224d0a27791a2075f3e9811c8371d1432ae5
+Author: Montrez <montrez.cox@gmail.com>
+Date:   Sat Feb 9 12:38:52 2019 -0500
+
+    Added correct hour field for seed
+
+commit 49ef713ec9521d130533a11287689af94e6fed19
+Merge: e4e9ec4 87c822e
+Author: KD Adkins <young.adkins@gmail.com>
+Date:   Sat Feb 9 12:38:08 2019 -0500
+
+    Merge branch 'master' of github.com:jawardell/hackathon
+
+commit 87c822e93c477e05070be653f7c5092b8ab98d43
+Author: Joanne <joanne.wardell6@gmail.com>
+Date:   Sat Feb 9 12:37:18 2019 -0500
+
+    updated the events page
+
+commit e4e9ec4970bfc613ce2f9a25e712f6278b1cbbeb
+Merge: 03c9312 afed22b
+Author: KD Adkins <young.adkins@gmail.com>
+Date:   Sat Feb 9 12:36:02 2019 -0500
+
+    Merge branch 'master' of github.com:jawardell/hackathon
+
+commit 03c9312c8cb36b9a6de66a3dee00dc8cc405a181
+Author: KD Adkins <young.adkins@gmail.com>
+Date:   Sat Feb 9 12:34:46 2019 -0500
+
+    Added css in head tag
+
+commit afed22b6ee148adab5649ef28cba0cb16e86169d
+Merge: a6000b4 51f84f1
+Author: Joanne <joanne.wardell6@gmail.com>
+Date:   Sat Feb 9 12:33:33 2019 -0500
+
+    Merge branch 'master' of https://github.com/jawardell/hackathon
+
+commit a6000b4ac16f6a645493eeecd325007958b5538c
+Author: Joanne <joanne.wardell6@gmail.com>
+Date:   Sat Feb 9 12:33:26 2019 -0500
+
+    react
+
+commit 51f84f19dc3080e70e14f04dfdbf0ade4c8aa478
+Author: Jenny <31353637+jenchen08@users.noreply.github.com>
+Date:   Sat Feb 9 12:33:03 2019 -0500
+
+    Add files via upload
+
+commit 8852c86d248ab4ad4b23d7673672f539de8a2143
+Merge: 1bf6636 84f0ec5
+Author: Joanne <joanne.wardell6@gmail.com>
+Date:   Sat Feb 9 12:19:24 2019 -0500
+
+    Merge branch 'master' of https://github.com/jawardell/hackathon
+
+commit 1bf6636c996b784ed77ca9fd2eb311d6f5d26726
+Author: Joanne <joanne.wardell6@gmail.com>
+Date:   Sat Feb 9 12:19:09 2019 -0500
+
+    add react
+
+commit 84f0ec582eaaf196e77c24a21cef2e1ed364002c
+Merge: 951ddd1 07a7794
+Author: Montrez <montrez.cox@gmail.com>
+Date:   Sat Feb 9 12:08:35 2019 -0500
+
+    Merge branch 'master' of github.com:jawardell/hackathon
+
+commit 951ddd1d4a970cbc55a5b3f26072cc88178459c3
+Author: Montrez <montrez.cox@gmail.com>
+Date:   Sat Feb 9 12:08:30 2019 -0500
+
+    Seeds is now working, should be able to populate the database with our scholarships
+
+commit 07a77947034b380dcf41e80973359b33d2c06be9
+Merge: db77a1b 0e463d9
+Author: KD Adkins <young.adkins@gmail.com>
+Date:   Sat Feb 9 12:06:27 2019 -0500
+
+    Merge branch 'master' of github.com:jawardell/hackathon
+
+commit db77a1b857351ab82956d3a90412e88cc3a353c9
+Author: KD Adkins <young.adkins@gmail.com>
+Date:   Sat Feb 9 12:05:40 2019 -0500
+
+    Added Project board template
+
+commit 0e463d94c981b0310e3a92b6403f5d850d8f5baa
+Merge: 177abec 2379911
+Author: Joanne <joanne.wardell6@gmail.com>
+Date:   Sat Feb 9 12:04:06 2019 -0500
+
+    Merge branch 'master' of https://github.com/jawardell/hackathon
+
+commit 177abec8a23ed2c1187174b20f2f97c79414ad7a
+Author: Joanne <joanne.wardell6@gmail.com>
+Date:   Sat Feb 9 12:03:43 2019 -0500
+
+    update react
+
+commit 2379911a475d876a35f35dfe15795cc18756d628
+Author: ma2jemal <38444401+ma2jemal@users.noreply.github.com>
+Date:   Sat Feb 9 11:55:10 2019 -0500
+
+    Add files via upload
+
+commit 5ad68e06658975c0bff30131c77f7ca71e417638
+Merge: 776a3a9 13c4b62
+Author: Montrez <montrez.cox@gmail.com>
+Date:   Sat Feb 9 11:52:14 2019 -0500
+
+    Merge branch 'master' of github.com:jawardell/hackathon
+
+commit 776a3a95270442e6da18e567f98ec0c8a1508994
+Author: Montrez <montrez.cox@gmail.com>
+Date:   Sat Feb 9 11:51:55 2019 -0500
+
+    Seeds file is updated
+
+commit 13c4b621b4059c5cc013a4518ed72be360f9e8f4
+Author: Joanne <joanne.wardell6@gmail.com>
+Date:   Sat Feb 9 11:50:23 2019 -0500
+
+    working with pages
+
+commit 28d35db38a13685d9ce23d42271027caf951d611
+Author: Jenny <31353637+jenchen08@users.noreply.github.com>
+Date:   Sat Feb 9 11:21:48 2019 -0500
+
+    Add files via upload
+
+commit 015f0e076f2364d0c9018f5bbed82562288044f0
+Merge: 722a3ee e4c3dd2
+Author: Joanne <joanne.wardell6@gmail.com>
+Date:   Sat Feb 9 11:18:06 2019 -0500
+
+    Merge branch 'master' of https://github.com/jawardell/hackathon
+
+commit 722a3ee1b701fe29bcb2149449c84104c8263d3c
+Author: Joanne <joanne.wardell6@gmail.com>
+Date:   Sat Feb 9 11:17:58 2019 -0500
+
+    updates
+
+commit e4c3dd2f758c340ab80c77bfdb65f0ef5ef49dcc
+Author: Montrez <montrez.cox@gmail.com>
+Date:   Sat Feb 9 11:15:39 2019 -0500
+
+    Updated seeds file
+
+commit 9eacb35b7d3a43308db8c55efe505aac9a634ed4
+Merge: ca75b70 b86cbf2
+Author: KD Adkins <young.adkins@gmail.com>
+Date:   Sat Feb 9 11:02:57 2019 -0500
+
+    Merge branch 'master' of github.com:jawardell/hackathon
+
+commit ca75b706ee7796584eec5dfdbd80c09c6b113082
+Author: KD Adkins <young.adkins@gmail.com>
+Date:   Sat Feb 9 11:01:21 2019 -0500
+
+    Added notification code
+
+commit b86cbf25e23b41ec407860c055ca5c04d139cafc
+Merge: 4d9cd78 a293d6f
+Author: Joanne <joanne.wardell6@gmail.com>
+Date:   Sat Feb 9 11:00:25 2019 -0500
+
+    Merge branch 'master' of https://github.com/jawardell/hackathon
+
+commit 4d9cd782156311583b4d0a1486b7626f83f899a1
+Author: Joanne <joanne.wardell6@gmail.com>
+Date:   Sat Feb 9 11:00:10 2019 -0500
+
+    update html pages
+
+commit a293d6fc8b71b518151efcab3cd092b5877874ea
+Merge: 86d1629 7bd40ae
+Author: Montrez <montrez.cox@gmail.com>
+Date:   Sat Feb 9 10:45:27 2019 -0500
+
+    Merge branch 'master' of github.com:jawardell/hackathon
+
+commit 86d16294cf64a338eb837327b3fcd179285c1c49
+Author: Montrez <montrez.cox@gmail.com>
+Date:   Sat Feb 9 10:45:15 2019 -0500
+
+    Updated seeds file with first three scholarships
+
+commit 7bd40ae383d0fcc9631f06f469807447440c67b8
+Author: ma2jemal <38444401+ma2jemal@users.noreply.github.com>
+Date:   Sat Feb 9 10:44:08 2019 -0500
+
+    Update README.md
+
+commit 56f213e9cc7b193172faf9438caa803bbc49f37d
+Author: Jenny <31353637+jenchen08@users.noreply.github.com>
+Date:   Sat Feb 9 10:30:07 2019 -0500
+
+    Add files via upload
+
+commit cfda12f89d4dbff8cadefed4f81e53e5dfef48fa
+Merge: a8ebc0f 2f251bd
+Author: Joanne <joanne.wardell6@gmail.com>
+Date:   Sat Feb 9 10:19:00 2019 -0500
+
+    Merge branch 'master' of https://github.com/jawardell/hackathon
+
+commit a8ebc0f93ddaaeec933eb87be7a3afe25cf173c5
+Author: Joanne <joanne.wardell6@gmail.com>
+Date:   Sat Feb 9 10:18:39 2019 -0500
+
+    added quick links to pages
+
+commit 2f251bde850fec4f6db3546dd51e6d9b7b7752a0
+Author: KD <young.adkins@gmail.com>
+Date:   Sat Feb 9 10:13:11 2019 -0500
+
+    Word doc for Jenny and Muna to fill out
+
+commit 96cdb752070d51b574270197116c77acbf03a89b
+Author: Joanne <joanne.wardell6@gmail.com>
+Date:   Sat Feb 9 10:12:02 2019 -0500
+
+    css fixed
+
+commit ac4c6f1d5d65901ca55f5175a1219827edc1c5a4
+Author: Joanne <joanne.wardell6@gmail.com>
+Date:   Sat Feb 9 10:02:48 2019 -0500
+
+    updates
+
+commit 4425f39e273b1433ceaec1dc2114c912341253bb
+Author: Joanne <joanne.wardell6@gmail.com>
+Date:   Sat Feb 9 09:57:46 2019 -0500
+
+    updates
+
+commit 0558da7ffb884b585a919b5b01091fabefd67ee1
+Author: Jenny <31353637+jenchen08@users.noreply.github.com>
+Date:   Sat Feb 9 09:53:15 2019 -0500
+
+    Add files via upload
+
+commit 75ed97c66cc0360204e5927111664cc79d4e1f90
+Author: ma2jemal <38444401+ma2jemal@users.noreply.github.com>
+Date:   Sat Feb 9 09:34:06 2019 -0500
+
+    Add files via upload
+
+commit 7831993145c9d7690dd6af5e04f6571745f76d5e
+Author: Jenny <31353637+jenchen08@users.noreply.github.com>
+Date:   Sat Feb 9 09:31:40 2019 -0500
+
+    Delete Pictures (Icons)
+
+commit 8779517137fbb414b62ff1d89e651583e96f4456
+Author: Jenny <31353637+jenchen08@users.noreply.github.com>
+Date:   Sat Feb 9 09:31:28 2019 -0500
+
+    Create Pictures (Icons)
+
+commit 0a140c504012a351c51703f8a434383f8880f93c
+Author: Jenny <31353637+jenchen08@users.noreply.github.com>
+Date:   Sat Feb 9 09:27:32 2019 -0500
+
+    Add files via upload
+
+commit 1a192fa04b2e3512d96c38df29d4ad2b23cac412
+Author: Jenny <31353637+jenchen08@users.noreply.github.com>
+Date:   Sat Feb 9 09:20:31 2019 -0500
+
+    Add files via upload
+
+commit 2fb26b09abce4fe9692ed2f58d75d0f9d37fff16
+Author: Joanne <joanne.wardell6@gmail.com>
+Date:   Sat Feb 9 09:19:21 2019 -0500
+
+    folder visible
+
+commit 393ab57d3efcc326c276f54720b46930fb3a9517
+Author: Joanne <joanne.wardell6@gmail.com>
+Date:   Sat Feb 9 09:18:04 2019 -0500
+
+    scaffolded stuff
+
+commit 8c01a5e8188c52f8833f25adcd380b1af75a8f3a
+Author: Joanne <joanne.wardell6@gmail.com>
+Date:   Sat Feb 9 09:12:15 2019 -0500
+
+    initial commit
